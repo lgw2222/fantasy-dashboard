@@ -1,0 +1,1 @@
+// React app entrypoint with live scoring and weekly stats table code (connected to Sheets API)

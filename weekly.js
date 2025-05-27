@@ -1,1 +1,1 @@
-// Placeholder for weekly stats table
+// Weekly stats table from Sheet 2 - Google Sheets API connection

@@ -1,1 +1,1 @@
-// Placeholder for live scoring table
+// Live scoring table from Sheet 1 - Google Sheets API connection
